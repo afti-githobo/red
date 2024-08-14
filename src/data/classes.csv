@@ -1,0 +1,12 @@
+Comment,ID,AssetID,Name,BaseHP,BaseStrength,BaseDefense,BaseSpeed,BaseLuck,BaseMove,BaseConstitution,MoveSpeed,ActionFlags,ItemFlags,MovementCosts,Field,Water,Rough,Road,Mountain,Nope,Fort
+Test class,TestClass,testClass,Test Class,15,3,2,2,2,5,9,0.25,"Move,Attack,Camp,Item,Staff","Consumable,Bow,Sword,Axe,Lance",0,1,Infinity,1.5,0.5,3,Infinity,3
+Lord,Noble,noble,Noble,15,3,2,2,2,5,9,0.1,"Move,Attack,Camp,Item","Consumable,Sword",0,1,Infinity,1.5,0.5,3,Infinity,3
+(Only other camping class),Chef,chef,Chef,10,1,1,1,1,4,9,0.1,"Move,Camp,Item",Consumable,0,1,Infinity,1.5,0.5,3,Infinity,3
+Mounted,Cavalier,cav,Cavalier,15,3,2,2,2,9,9,0.05,"Move,Attack,Item","Consumable,Lance,Sword",0,1,Infinity,3,0.5,5,Infinity,3
+Flyer,Flyer,peg,Valkyrie,10,3,1,3,2,11,9,0.05,"Move,Attack,Item","Consumable,Lance",0,1,1,1,1,1,Infinity,1
+Bow guys,Archer,archer,Archer,15,3,2,2,2,5,9,0.1,"Move,Attack,Item","Consumable,Bow",0,1,Infinity,1.5,0.5,3,Infinity,3
+Footlocked vanilla grunty guys,Soldier,soldier,Soldier,15,3,2,2,2,5,9,0.1,"Move,Attack,Item","Consumable,Lance",0,1,Infinity,1.5,0.5,3,Infinity,3
+"Big, slow, tough",HeavyKnight,heavy,Vanguard,15,3,2,2,2,5,9,0.333333333333,"Move,Attack,Item","Consumable,Lance,Axe",0,1,Infinity,1.5,0.5,3,Infinity,3
+"Fast, footlocked melee",Swordsman,swordsman,Slayer,15,3,2,2,2,5,9,0.1,"Move,Attack,Item","Consumable,Sword",0,1,Infinity,1.5,0.5,3,Infinity,3
+Heals!,Healer,healer,Apothecary,15,3,2,2,2,5,9,0.1,"Move,Item,Staff",Consumable,0,1,Infinity,1.5,0.5,3,Infinity,3
+Magic? dunno,Mage,mage,Mage,15,3,2,2,2,5,9,0.1,"Move,Attack,Item",Consumable,0,1,Infinity,1.5,0.5,3,Infinity,3

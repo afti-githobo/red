@@ -1,0 +1,50 @@
+[gd_scene load_steps=8 format=3 uid="uid://cxitrsqgos1ey"]
+
+[ext_resource type="Script" path="res://script/map/MapSystem.cs" id="1_dx1qd"]
+[ext_resource type="PackedScene" uid="uid://5mnxyv8xy0ve" path="res://scene/map/test_map.tscn" id="1_oei8b"]
+[ext_resource type="Script" path="res://script/map/InputHandler.cs" id="2_q5xs7"]
+[ext_resource type="PackedScene" uid="uid://db58ctnwsv2jk" path="res://scene/map/tile_cursor.tscn" id="3_dtpek"]
+[ext_resource type="Script" path="res://script/map/CameraController.cs" id="3_thgeh"]
+[ext_resource type="PackedScene" uid="uid://dyhbiub1hoifg" path="res://scene/sys/map_menu_scene.tscn" id="6_612os"]
+[ext_resource type="Script" path="res://script/map/TurnManager.cs" id="7_4xfde"]
+
+[node name="MapScene" type="Node2D"]
+script = ExtResource("1_dx1qd")
+
+[node name="InputHandler" type="Node" parent="."]
+script = ExtResource("2_q5xs7")
+inputOpenContextMenu = "ui_accept"
+inputCloseContextMenu = "ui_cancel"
+inputSelectContextMenuOption = "ui_accept"
+inputLeft = "ui_left"
+inputRight = "ui_right"
+inputUp = "ui_up"
+inputDown = "ui_down"
+acceptingInput = true
+
+[node name="TurnManager" type="Node2D" parent="."]
+script = ExtResource("7_4xfde")
+enabled = true
+
+[node name="Origin" type="Node2D" parent="."]
+unique_name_in_owner = true
+
+[node name="CurMap" parent="." instance=ExtResource("1_oei8b")]
+unique_name_in_owner = true
+
+[node name="TileCursor" parent="." instance=ExtResource("3_dtpek")]
+unique_name_in_owner = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="CameraController" type="Node" parent="." node_paths=PackedStringArray("camera")]
+script = ExtResource("3_thgeh")
+camera = NodePath("../Camera2D")
+baseMovementDelay = 0.111
+angularDelayCorrection = 0.667
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="MapMenuScene" parent="CanvasLayer" instance=ExtResource("6_612os")]
+offset_right = 854.0
+offset_bottom = 480.0

@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://lj448rbd3bg5"]
+
+[ext_resource type="PackedScene" uid="uid://cxitrsqgos1ey" path="res://scene/map/map_scene.tscn" id="1_8u3m7"]
+[ext_resource type="PackedScene" uid="uid://dou5xbwfaio1n" path="res://scene/battle/battle_scene.tscn" id="1_qohke"]
+[ext_resource type="PackedScene" uid="uid://dyhbiub1hoifg" path="res://scene/sys/map_menu_scene.tscn" id="3_jrw1a"]
+
+[node name="SceneMain" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MenuScene" parent="." instance=ExtResource("3_jrw1a")]
+offset_right = 854.0
+offset_bottom = 480.0
+
+[node name="BattleScene" parent="." instance=ExtResource("1_qohke")]
+
+[node name="MapScene" parent="." instance=ExtResource("1_8u3m7")]

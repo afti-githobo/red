@@ -1,0 +1,6 @@
+Comment,ID,AssetID,Name,ItemFlags,TargetFlags,BaseDurability,MinRange,MaxRange,Power,Weight,Value
+Field ration,FieldRation,fieldRation,Field ration,Consumable,Self,1,0,0,25,100,5000
+Test bow,TestBow,testBow,Test bow,Bow,Enemy,50,2,4,10,5,500
+Test sword,TestSword,testSword,Test sword,Sword,Enemy,50,1,1,10,5,500
+Test axe,TestAxe,testAxe,Test axe,Axe,Enemy,50,1,1,15,7,500
+Test lance,TestLance,testLance,Test lance,Lance,Enemy,50,1,2,12,7,500

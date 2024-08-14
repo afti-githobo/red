@@ -1,0 +1,39 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://blvbr8yu1mdn5"]
+
+[ext_resource type="Texture2D" uid="uid://bncc8s53vh646" path="res://gfx/2d/sys/map/tileCursor.png" id="1_6qklb"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_r7tvl"]
+atlas = ExtResource("1_6qklb")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_lncvd"]
+atlas = ExtResource("1_6qklb")
+region = Rect2(32, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dr31f"]
+atlas = ExtResource("1_6qklb")
+region = Rect2(0, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_823ww"]
+atlas = ExtResource("1_6qklb")
+region = Rect2(32, 32, 32, 32)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_r7tvl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_lncvd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dr31f")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_823ww")
+}],
+"loop": true,
+"name": &"default",
+"speed": 12.0
+}]

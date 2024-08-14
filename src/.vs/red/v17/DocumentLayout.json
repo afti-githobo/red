@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\red\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\movemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\movemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\tileinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\tileinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\turninspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\turninspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\unitinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\unitinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\unithpminibar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\unithpminibar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\minibattlesubmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\minibattlesubmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\minibattlemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\minibattlemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\map\\contextmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\map\\contextmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\imanagedmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\imanagedmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\sys\\menusystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\sys\\menusystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\unit\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\unit\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\unit\\aiunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\unit\\aiunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\unit\\playerunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\unit\\playerunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\unit\\uniteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\unit\\uniteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\movepreviewlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\movepreviewlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\turnphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\turnphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\unit\\unitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\unit\\unitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\ilockable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\ilockable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\data\\units\\alignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\data\\units\\alignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\data\\units\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\data\\units\\faction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\data\\classes\\classspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\data\\classes\\classspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\map\\litebattleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\map\\litebattleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\battle\\battleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\battle\\battleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\battle\\battlestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\battle\\battlestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|c:\\red\\src\\script\\data\\projectconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F68E4A-402D-4EBE-8789-6CE125B72CCD}|red.csproj|solutionrelative:script\\data\\projectconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManagedMenu.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\IManagedMenu.cs",
+              "RelativeDocumentMoniker": "script\\sys\\IManagedMenu.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\IManagedMenu.cs",
+              "RelativeToolTip": "script\\sys\\IManagedMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:41:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuSystem.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\MenuSystem.cs",
+              "RelativeDocumentMoniker": "script\\sys\\MenuSystem.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\MenuSystem.cs",
+              "RelativeToolTip": "script\\sys\\MenuSystem.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA9wC8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:38:52.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveMenu.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\MoveMenu.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\MoveMenu.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\MoveMenu.cs",
+              "RelativeToolTip": "script\\sys\\map\\MoveMenu.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAhwFIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:57:43.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContextMenu.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\ContextMenu.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\ContextMenu.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\ContextMenu.cs",
+              "RelativeToolTip": "script\\sys\\map\\ContextMenu.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:08:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniBattleMenu.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\MiniBattleMenu.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\MiniBattleMenu.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\MiniBattleMenu.cs",
+              "RelativeToolTip": "script\\sys\\map\\MiniBattleMenu.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:58:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiniBattleSubmenu.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\MiniBattleSubmenu.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\MiniBattleSubmenu.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\MiniBattleSubmenu.cs",
+              "RelativeToolTip": "script\\sys\\map\\MiniBattleSubmenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:28:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileInspector.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\TileInspector.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\TileInspector.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\TileInspector.cs",
+              "RelativeToolTip": "script\\sys\\map\\TileInspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:59:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnInspector.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\TurnInspector.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\TurnInspector.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\TurnInspector.cs",
+              "RelativeToolTip": "script\\sys\\map\\TurnInspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:58:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitHPMiniBar.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\UnitHPMiniBar.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\UnitHPMiniBar.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\UnitHPMiniBar.cs",
+              "RelativeToolTip": "script\\sys\\map\\UnitHPMiniBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:10:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitInspector.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\sys\\map\\UnitInspector.cs",
+              "RelativeDocumentMoniker": "script\\sys\\map\\UnitInspector.cs",
+              "ToolTip": "C:\\red\\src\\script\\sys\\map\\UnitInspector.cs",
+              "RelativeToolTip": "script\\sys\\map\\UnitInspector.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:10:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\unit\\UnitController.cs",
+              "RelativeDocumentMoniker": "script\\map\\unit\\UnitController.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\unit\\UnitController.cs",
+              "RelativeToolTip": "script\\map\\unit\\UnitController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:50:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIUnitController.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\unit\\AIUnitController.cs",
+              "RelativeDocumentMoniker": "script\\map\\unit\\AIUnitController.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\unit\\AIUnitController.cs",
+              "RelativeToolTip": "script\\map\\unit\\AIUnitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:12:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerUnitController.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\unit\\PlayerUnitController.cs",
+              "RelativeDocumentMoniker": "script\\map\\unit\\PlayerUnitController.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\unit\\PlayerUnitController.cs",
+              "RelativeToolTip": "script\\map\\unit\\PlayerUnitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:07:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitEventArgs.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\unit\\UnitEventArgs.cs",
+              "RelativeDocumentMoniker": "script\\map\\unit\\UnitEventArgs.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\unit\\UnitEventArgs.cs",
+              "RelativeToolTip": "script\\map\\unit\\UnitEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:28:42.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\TurnManager.cs",
+              "RelativeDocumentMoniker": "script\\map\\TurnManager.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\TurnManager.cs",
+              "RelativeToolTip": "script\\map\\TurnManager.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAuwGoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:13:44.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurnPhase.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\TurnPhase.cs",
+              "RelativeDocumentMoniker": "script\\map\\TurnPhase.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\TurnPhase.cs",
+              "RelativeToolTip": "script\\map\\TurnPhase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:57:55.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitManager.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\unit\\UnitManager.cs",
+              "RelativeDocumentMoniker": "script\\map\\unit\\UnitManager.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\unit\\UnitManager.cs",
+              "RelativeToolTip": "script\\map\\unit\\UnitManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:37:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILockable.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\ILockable.cs",
+              "RelativeDocumentMoniker": "script\\ILockable.cs",
+              "ToolTip": "C:\\red\\src\\script\\ILockable.cs",
+              "RelativeToolTip": "script\\ILockable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:17:01.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Alignment.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\data\\units\\Alignment.cs",
+              "RelativeDocumentMoniker": "script\\data\\units\\Alignment.cs",
+              "ToolTip": "C:\\red\\src\\script\\data\\units\\Alignment.cs",
+              "RelativeToolTip": "script\\data\\units\\Alignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:21:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovePreviewLayer.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\MovePreviewLayer.cs",
+              "RelativeDocumentMoniker": "script\\map\\MovePreviewLayer.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\MovePreviewLayer.cs",
+              "RelativeToolTip": "script\\map\\MovePreviewLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:04:06.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Faction.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\data\\units\\Faction.cs",
+              "RelativeDocumentMoniker": "script\\data\\units\\Faction.cs",
+              "ToolTip": "C:\\red\\src\\script\\data\\units\\Faction.cs",
+              "RelativeToolTip": "script\\data\\units\\Faction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:58:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassSpec.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\data\\classes\\ClassSpec.cs",
+              "RelativeDocumentMoniker": "script\\data\\classes\\ClassSpec.cs",
+              "ToolTip": "C:\\red\\src\\script\\data\\classes\\ClassSpec.cs",
+              "RelativeToolTip": "script\\data\\classes\\ClassSpec.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwF0AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:02:49.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LiteBattlePlayer.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\map\\LiteBattlePlayer.cs",
+              "RelativeDocumentMoniker": "script\\map\\LiteBattlePlayer.cs",
+              "ToolTip": "C:\\red\\src\\script\\map\\LiteBattlePlayer.cs",
+              "RelativeToolTip": "script\\map\\LiteBattlePlayer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:15:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BattlePlayer.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\battle\\BattlePlayer.cs",
+              "RelativeDocumentMoniker": "script\\battle\\BattlePlayer.cs",
+              "ToolTip": "C:\\red\\src\\script\\battle\\BattlePlayer.cs",
+              "RelativeToolTip": "script\\battle\\BattlePlayer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:10:28.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BattleStep.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\battle\\BattleStep.cs",
+              "RelativeDocumentMoniker": "script\\battle\\BattleStep.cs",
+              "ToolTip": "C:\\red\\src\\script\\battle\\BattleStep.cs",
+              "RelativeToolTip": "script\\battle\\BattleStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:11:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectConstants.cs",
+              "DocumentMoniker": "C:\\red\\src\\script\\data\\ProjectConstants.cs",
+              "RelativeDocumentMoniker": "script\\data\\ProjectConstants.cs",
+              "ToolTip": "C:\\red\\src\\script\\data\\ProjectConstants.cs",
+              "RelativeToolTip": "script\\data\\ProjectConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:02:04.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
